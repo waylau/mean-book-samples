@@ -1,6 +1,31 @@
 # MEAN Samples. （MEAN架构应用示例）
 
 * [hello-world](samples/hello-world)：第一个Node.js应用
+* [deep-strict-equal](samples/deep-strict-equal/)：deepStrictEqual示例
+* [buffer-demo/character-encodings.js](samples/buffer-demo/character-encodings.js)：指定字符编码
+* [buffer-demo/buffer-slice.js](samples/buffer-demo/buffer-slice.js)：切分缓冲区
+* [buffer-demo/buffer-concat.js](samples/buffer-demo/buffer-concat.js)：连接缓冲区
+* [buffer-demo/buffer-compare.js](samples/buffer-demo/buffer-compare.js)：比较缓冲区
+* [buffer-demo/buffer-read.js](samples/buffer-demo/buffer-read.js)：缓冲区解码
+* [buffer-demo/buffer-write.js](samples/buffer-demo/buffer-write.js)：缓冲区编码
+* [events-demo/parameter-this.js](samples/events-demo/parameter-this.js)：监听事件
+* [events-demo/parameter-lambda.js](samples/events-demo/parameter-lambda.js)：lambda方式监听事件
+* [events-demo/set-immediate.js](samples/events-demo/set-immediate.js)：异步模式监听事件
+* [events-demo/emitter-once.js](samples/events-demo/emitter-once.js)：仅处理事件一次
+* [events-demo/error-event.js](samples/events-demo/error-event.js)：为error事件注册监听器
+* [events-demo/event-names.js](samples/events-demo/event-names.js)：获取已注册的事件的名称
+* [events-demo/event-listeners.js](samples/events-demo/event-listeners.js)：获取监听器数组的副本
+* [events-demo/prepend-listener.js](samples/events-demo/prepend-listener.js)：将事件监听器添加到监听器数组的开头
+* [events-demo/remove-listener.js](samples/events-demo/remove-listener.js)：移除监听器
+* [fs-demo/fs-open.js](samples/fs-demo/fs-open.js)：打开文件
+* [fs-demo/fs-read.js](samples/fs-demo/fs-read.js)：读取文件
+* [fs-demo/fs-read-dir.js](samples/fs-demo/fs-read-dir.js)：读取目录
+* [fs-demo/fs-read-file.js](samples/fs-demo/fs-read-file.js)：读取文件的全部内容
+* [fs-demo/fs-write.js](samples/fs-demo/fs-write.js)：写入文件
+* [fs-demo/fs-write-string.js](samples/fs-demo/fs-write-string.js)：将字符串写入文件
+* [fs-demo/fs-write-file.js](samples/fs-demo/fs-write-file.js)：将数据写入文件
+* [http-demo/hello-world.js](samples/http-demo/hello-world.js)：第一个HTTP服务器
+* [http-demo/rest-service.js](samples/http-demo/rest-service.js)：构建REST服务的例子
 * ...
 
 
