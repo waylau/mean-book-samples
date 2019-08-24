@@ -26,6 +26,8 @@
 * [fs-demo/fs-write-file.js](samples/fs-demo/fs-write-file.js)：将数据写入文件
 * [http-demo/hello-world.js](samples/http-demo/hello-world.js)：第一个HTTP服务器
 * [http-demo/rest-service.js](samples/http-demo/rest-service.js)：构建REST服务的例子
+* [express-demo](samples/express-demo)：Express示例
+* [express-rest](samples/express-rest)：Express REST 示例
 * ...
 
 
