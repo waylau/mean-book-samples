@@ -29,6 +29,7 @@
 * [express-demo](samples/express-demo)：Express示例
 * [express-rest](samples/express-rest)：Express REST 示例
 * [mongodb-demo](samples/mongodb-demo)：操作MongoDB的例子
+* [angular-demo](samples/angular-demo)：Angular应用的例子
 * ...
 
 
