@@ -30,6 +30,9 @@
 * [express-rest](samples/express-rest)：Express REST 示例
 * [mongodb-demo](samples/mongodb-demo)：操作MongoDB的例子
 * [angular-demo](samples/angular-demo)：Angular应用的例子
+* [life-cycle](samples/life-cycle)：Angular生命周期钩子的例子
+* [component-interaction](samples/component-interaction)：Angular组件交互方式
+* [component-style](samples/component-style)：Angular使用组件样式的例子
 * ...
 
 
