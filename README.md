@@ -33,6 +33,8 @@
 * [life-cycle](samples/life-cycle)：Angular生命周期钩子的例子
 * [component-interaction](samples/component-interaction)：Angular组件交互方式
 * [component-style](samples/component-style)：Angular使用组件样式的例子
+* [attribute-directives](samples/attribute-directives)：使用属性型指令的例子
+* [structural-directives](samples/structural-directives)：自定义结构型指令
 * ...
 
 
