@@ -36,6 +36,8 @@
 * [attribute-directives](samples/attribute-directives)：使用属性型指令的例子
 * [structural-directives](samples/structural-directives)：自定义结构型指令
 * [dependency-injection](samples/dependency-injection)：依赖注入的例子
+* [router](samples/router)：路由器的例子
+* [http-client](samples/http-client)：HttpClient的例子
 * ...
 
 
