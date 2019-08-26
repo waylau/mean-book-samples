@@ -35,6 +35,7 @@
 * [component-style](samples/component-style)：Angular使用组件样式的例子
 * [attribute-directives](samples/attribute-directives)：使用属性型指令的例子
 * [structural-directives](samples/structural-directives)：自定义结构型指令
+* [dependency-injection](samples/dependency-injection)：依赖注入的例子
 * ...
 
 
