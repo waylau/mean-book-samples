@@ -1,0 +1,8 @@
+<button nz-button nzType="dashed" (click)="goback()">返回</button>
+<nz-card nzTitle="{{news.title}}">
+
+    <nz-card-meta nzTitle="{{news.creation | date:'yyyy-MM-dd HH:mm:ss' }}"></nz-card-meta>
+
+    <markdown [data]=news.content></markdown>
+
+</nz-card>

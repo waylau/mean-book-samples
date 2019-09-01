@@ -1,0 +1,5 @@
+<nz-list [nzDataSource]="newsData" nzBordered nzSize="small" [nzRenderItem]="smallItem">
+    <ng-template #smallItem let-item>
+        <nz-list-item><a href="/news/{{item.newsId}}">{{ item.title }}</a></nz-list-item>
+    </ng-template>
+</nz-list>

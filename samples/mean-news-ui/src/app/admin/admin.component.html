@@ -1,0 +1,25 @@
+<form nz-form>
+    <nz-form-item>
+        <nz-form-label nzRequired>新闻标题</nz-form-label>
+        <nz-form-control>
+            <input nz-input name="title" placeholder="请输入新闻标题!" maxlength="100" 
+            name="title"
+                (keyup)="syncTitle(newTitle.value)" value={{markdownTitle}} #newTitle>
+        </nz-form-control>
+    </nz-form-item>
+    <nz-form-item>
+        <nz-form-label nzRequired>新闻内容</nz-form-label>
+        <nz-form-control>
+            <textarea name="content" nz-input rows="16" placeholder="请输入新闻内容!" 
+            (keyup)="syncContent(newContent.value)"
+                value={{markdownContent}} #newContent></textarea>
+        </nz-form-control>
+    </nz-form-item>
+    <nz-form-item>
+        <nz-form-control>
+            <button nz-button nzType="primary" (click)="submitData()">提交</button>
+        </nz-form-control>
+    </nz-form-item>
+</form>
+
+<markdown [data]="markdownContent"></markdown>
