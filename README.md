@@ -38,7 +38,8 @@
 * [dependency-injection](samples/dependency-injection)：依赖注入的例子
 * [router](samples/router)：路由器的例子
 * [http-client](samples/http-client)：HttpClient的例子
-* ...
+* [mean-news-ui](samples/mean-news-ui)：新闻头条前端UI客户端应用
+* [mean-news-server](samples/)：新闻头条后台服务器应用
 
 
 ## Issue 意见、建议
