@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const port = 8080;
-const bodyParser = require('body-parser');//用于req.body获取值的
+const bodyParser = require('body-parser');//用于从req.body中获取值
 app.use(bodyParser.json());
 
 
